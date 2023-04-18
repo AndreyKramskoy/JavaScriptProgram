@@ -1,114 +1,22 @@
-# JavaScript mentoring program
+# Module 4: JavaScript functions
 
-##### Table of Contents
+## Hometask
 
-[Description](#description)  
-[Installation](#installation)  
-[Materials](#materials)  
-[Module 1: Introduction. Setup working environment](#module_1)  
-[Module 2: Variables and data types](#module_2)  
-[Module 3: Conditions and loops](#module_3)  
-[Module 4: JavaScript functions](#module_4)  
-[Module 5: Strings and arrays](#module_5)  
-[Module 6: Objects, classes, and OOP](#module_6)  
-[Module 7: Async programming](#module_7)
-[Module 8: NodeJS infrastructure](#module_8)
-[Contact list](#contacts)
-[License](#license)
+1. Fork this repository: JavaScript functions
+2. Clone your newly created repo: https://gitlab.com/<%your_gitlab_username%>/javascript-functions/
+3. Go to folder `javascript-functions`
+4. To install all dependencies use [`npm install`](https://docs.npmjs.com/cli/install)
+5. Do the tasks from "./src/index.js" file
+6. Run `npm run test:dev` in the command line
+7. You will see the number of passing and failing tests
 
-<a name="description"/>
+## Submit to AutoCode
 
-## Description
+1. Select your task (JavaScript functions)
+2. Press the `Check task` button and enjoy, results will be available in few minutes
 
-- Useful materials
-- Self-check tasks
+### Notes
 
-<a name="installation"/>
-
-## Installation
-
-Project requires [Node.js](https://nodejs.org/) v14+ to run.
-Install the dependencies.
-
-```sh
-npm i
-npm run test:${module_name}
-```
-
-<a name="materials"/>
-
-## Materials
-
-About the course: https://videoportal.epam.com/video/mYR8207W
-
-<a name="module_1"/>
-
-#### Module 1: Introduction. Setup working environment
-
-- Materials: https://videoportal.epam.com/playlist/r7mxNRJN/play/67KMq9YV
-- Hometask: https://git.epam.com/Dzmitry_Shaplyka/js-mentoring-program/-/blob/master/tasks/module-1/readme.md
-
-<a name="module_2"/>
-
-#### Module 2: Variables and data types
-
-- Materials: https://videoportal.epam.com/playlist/kaEp0A7e/play/jaNgwLY6
-- Hometask: https://git.epam.com/Dzmitry_Shaplyka/js-mentoring-program/-/blob/master/tasks/module-2/readme.md
-
-<a name="module_3"/>
-
-#### Module 3: Conditions and loops
-
-- Materials: https://videoportal.epam.com/playlist/mYQxqZap/play/WY4WMRaj
-- Hometask: https://git.epam.com/Dzmitry_Shaplyka/js-mentoring-program/-/blob/master/tasks/module-3/readme.md
-
-<a name="module_4"/>
-
-#### Module 4: JavaScript functions
-
-- Materials: https://videoportal.epam.com/playlist/rJd3ekYQ/play/ba2WDPYk
-- Hometask: https://git.epam.com/Dzmitry_Shaplyka/js-mentoring-program/-/blob/master/tasks/module-4/readme.md
-
-<a name="module_5"/>
-
-#### Module 5: Strings and arrays
-
-- Materials: https://videoportal.epam.com/playlist/lay90gaj/play/AaZDnvJ9
-- Hometask: https://git.epam.com/Dzmitry_Shaplyka/js-mentoring-program/-/blob/master/tasks/module-5/readme.md
-
-<a name="module_6"/>
-
-#### Module 6: Objects, classes, and OOP
-
-- Materials: https://videoportal.epam.com/playlist/V7geKOY0/play/BJvO3k7R
-- Hometask: https://git.epam.com/Dzmitry_Shaplyka/js-mentoring-program/-/blob/master/tasks/module-6/readme.md
-
-<a name="module_7"/>
-
-#### Module 7: Async programming
-
-- Materials: https://videoportal.epam.com/playlist/y765xkJ8/play/WY4DDZYj
-- Hometask: https://git.epam.com/Dzmitry_Shaplyka/js-mentoring-program/-/blob/master/tasks/module-7/readme.md
-
-<a name="module_8"/>
-
-#### Module 8: NodeJS infrastructure
-
-- Materials: https://videoportal.epam.com/playlist/qJX2qraw/play/VYGzvEav
-- Hometask: https://git.epam.com/Dzmitry_Shaplyka/js-mentoring-program/-/blob/master/tasks/module-8/readme.md
-
-<a name="contacts"/>
-
-## Contact list
-
-In case of any questions please contact:
-
-- Dzmitry_Shaplyka@epam.com
-- Oleksandr_Halichenko@epam.com
-- Andrei_Dzeichyk@epam.com
-
-<a name="license"/>
-
-## License
-
-EPAM Systems
+1. We recommend you to use nodejs of version 14 or lower. If you are using any of the features which are not supported
+   by v18, the score won't be submitted.
+2. Each of your test case is limited to 30 sec.
